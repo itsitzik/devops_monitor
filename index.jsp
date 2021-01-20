@@ -9,6 +9,6 @@
 <body>
 	<h1>Today's date is:</h1>
 	<br>
-	<input type="text" value="<%= today.format(new Date()) %>"
+	<input type="text" value="<%= today_error.format(new Date()) %>"
 </body>
 </html>
